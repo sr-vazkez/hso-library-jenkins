@@ -1,1 +1,1 @@
-{"fields": {"project":{"key": "$key"},"summary": "$summary","description": "$description","issuetype": {"name": "$issueTypeName"}}}
+"{"fields": {"project":{"key": "$key"},"summary": "$summary","description": "$description","issuetype": {"name": "$issueTypeName"}}}"
